@@ -1,5 +1,5 @@
-### Hi there! 👋 I'm [Kevin FIrmansyah]  
-🎓 A student at [Universitas Tujuh Belas Agustus Surabaya] majoring in [Informatics Engineering]  
+### Hi there! 👋 I'm Kevin Firmansyah  
+🎓 A student at Universitas Tujuh Belas Agustus Surabaya majoring in Informatics Engineering  
 💻 Passionate about **Web Development** and building awesome projects!  
 
 ---  
